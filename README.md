@@ -1,4 +1,4 @@
-# 2f_code
+# 2f_code Auther
 
 git clone https://github.com/wailinnoo/2f_code
 
